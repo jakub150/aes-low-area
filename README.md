@@ -1,6 +1,6 @@
 # aes-low-area
 
-<b?Abstract</b>
+<b>Abstract</b>
 
 In many applications, the Advanced Encryption Standard (AES) algorithm is now the standard option for security services. We describe an AES encryption hardware core in our study that is suitable for low-cost, low-power devices. The transformations are to be monitored by a control device. After implementing the suggested design on the Xilinx Spartan FPGA, it was determined that the suggested approach had less area coverage and latency.
 
